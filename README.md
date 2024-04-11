@@ -11,7 +11,7 @@ This repository contains a simple implementation project of an NBOW (Naive Bag-o
     pip install -r requirements.txt
     ```
 
-3. **Data Preprocessing**: Run the `preprocessing.py` to explore the IMDb dataset and perform data preprocessing.
+3. **Data Preprocessing**: Run the `pre_processing.py` to explore the IMDb dataset and perform data preprocessing.
 
 4. **Model Training**: Use the `build_model.py` to train the NBOW model on the preprocessed data.
 
