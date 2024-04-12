@@ -1,6 +1,6 @@
 # Movie Sentiment Analysis with NBOW
 
-This repository contains a simple implementation project of an NBOW (Naive Bag-of-Words) model for sentiment analysis of cinema movies. The model is trained on the IMDb dataset, which consists of movie reviews along with their sentiment (positive or negative). The goal of this project is to provide a basic understanding of setting up a sentiment prediction model.
+This repository contains a simple implementation project of an NBOW (Naive Bag-of-Words) model for sentiment analysis of cinema movies. The model is trained on the IMDB [dataset](https://huggingface.co/datasets/stanfordnlp/imdb), which consists of movie reviews along with their sentiment (positive or negative). The goal of this project is to provide a basic understanding of setting up a sentiment prediction model.
 
 ## How to Use
 
